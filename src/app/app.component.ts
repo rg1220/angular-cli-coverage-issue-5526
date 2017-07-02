@@ -10,6 +10,6 @@ export class AppComponent {
   title = 'app';
 
   constructor(http: Http) {
-
+    console.log('test');
   }
 }
